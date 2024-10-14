@@ -1,23 +1,26 @@
 ---
 layout: page
 title: updatez.org Main Page
-tagline: Easy websites with GitHub Pages
+tagline: Bringing legacy applications and services out of the page
 description: updatez.org Main Page
 ---
 
-For me, the painful aspects of making a website are
+For the moment, please accept our pre-compiled package of the MacDependancy Walker.
 
-- Mac Dependency Walker
+More to come.
+
+-
+- [MacDependency Package](releases/MacDependency.dmg)
 - (Coming Soon)
 - (Coming Soon)
 
 
+<!-- This is a comment in Markdown
 - [resources](pages/resources)
 -
 - [overview](pages/overview)
 -
 - [user_site](pages/user_site)
--
-- [MacDependency Package](releases/MacDependency.dmg)
+-->
 
 

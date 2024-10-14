@@ -11,3 +11,13 @@ For me, the painful aspects of making a website are
 - (Coming Soon)
 - (Coming Soon)
 
+
+- [resources](pages/resources)
+-
+- [overview](pages/overview)
+-
+- [user_site](pages/user_site)
+-
+- [MacDependency Package](releases/MacDependency.dmg)
+
+

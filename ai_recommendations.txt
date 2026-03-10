@@ -1,0 +1,35 @@
+I used relative links so they work well in static site generators like Jekyll / GitHub Pages.
+
+You can later create:
+
+/images/
+/case-studies/
+/pages/porting-process.md
+
+Your downloads are assumed to live at:
+
+/downloads/
+
+Example:
+
+/downloads/putty-macos.dmg
+/downloads/gftp-macos.dmg
+
+site-root
+│
+├── downloads
+│   ├── putty-macos.dmg
+│   ├── gftp-macos.dmg
+│   ├── macdependency.dmg
+│   ├── macdown.dmg
+│   └── appbundlegenerator.dmg
+│
+├── images
+│
+├── pages
+│   ├── downloads.md
+│   ├── porting-process.md
+│   ├── overview.md
+│   └── resources.md
+
+

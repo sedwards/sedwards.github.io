@@ -3,6 +3,7 @@
 layout: page
 title: Updatez.org
 description: Porting and Software Upgrade Services
+
 --------------------------------------------------
 
 # Updatez.org
@@ -19,6 +20,10 @@ Our work focuses on:
 * providing professional porting services
 
 ---
+
+<script 
+  src="https://www.paypal.com/sdk/js?client-id=BAAGLK6LcPZBP8zIDTBXa8pc4inpPlI7QQy-rYgg29CFM9wZqi-c3LJRRna2wurGqbsaqTkoY8bL6vK3WY&components=hosted-buttons&enable-funding=venmo&currency=USD">
+</script>
 
 # Software Tools
 
@@ -44,7 +49,7 @@ Secure checkout via PayPal.
 
 Learn more:
 
-* [Case Study](case-studies/macdependency.md)
+* [Case Study](case-studies/MacDependency_White_Paper.pdf)
 * [Porting Process](pages/porting-process.md)
 
 ---
@@ -74,7 +79,7 @@ Secure checkout via PayPal.
 
 Learn more:
 
-* [Case Study](case-studies/gftp.md)
+* [Case Study](case-studies/gftp_macos_gtk3_whitepaper.pdf)
 
 ---
 
@@ -112,6 +117,14 @@ Learn more:
 
 * [Case Study](case-studies/putty.md)
 
+---
+## rdesktop-mac
+<div id="paypal-container-TMHLD6LKWPGAN"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "TMHLD6LKWPGAN",
+  }).render("#paypal-container-TMHLD6LKWPGAN")
+</script>
 ---
 
 ## AppBundleGenerator — Free
@@ -209,6 +222,10 @@ Examples of projects and tools developed or maintained by Updatez.org.
 * [PuTTY for macOS](case-studies/putty.md)
 * [MacDependency](case-studies/macdependency.md)
 * [gFTP for macOS](case-studies/gftp.md)
+* [New AppBundleGenerator](case-studies/AppBundleGenerator_White_Paper_downloa.pdf)
+* [Putty for macOS WhitePaper](case-studies/putty_macos_apple_silicon_whitepaper.pdf)
+* [rdesktop-mac whitepaper](case-studies/rdesktop-mac-whitepaper.pdf)
+
 
 Full list:
 

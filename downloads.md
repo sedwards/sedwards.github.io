@@ -1,51 +1,21 @@
 ---
-
 layout: page
-title: Downloads
-description: Software Downloads
--------------------------------
-
-# Downloads
-
-Thank you for supporting Updatez.org.
-
-Your purchase helps fund continued development of tools for modernizing legacy software.
-
+title: Downloads and source code
+description: Find Updatez.org software and project source code.
 ---
 
-## PuTTY for macOS
-
-[Download PuTTY](../downloads/putty-macos.dmg)
-
----
-
-## gFTP for macOS
-
-[Download gFTP](../downloads/gftp-macos.dmg)
-
----
+Purchases help fund continued development. For help accessing a purchased package, contact [stevenaedwards82@gmail.com](mailto:stevenaedwards82@gmail.com).
 
 ## MacDependency
 
-[Download MacDependency](../downloads/macdependency.dmg)
+[Download MacDependency]({{ '/releases/MacDependency.dmg' | relative_url }}) · [View source on GitHub](https://github.com/sedwards/macdependency)
 
----
+## More projects
 
-## Free Tools
+Browse each repository for source code and build instructions:
 
-### AppBundleGenerator
+{% for project in site.data.projects %}
+* [{{ project.name }} on GitHub](https://github.com/{{ site.author.github }}/{{ project.repository }})
+{% endfor %}
 
-[Download](../downloads/appbundlegenerator.dmg)
-
-### MacDown (Apple Silicon Build)
-
-[Download](../downloads/macdown.dmg)
-
----
-
-If you experience issues downloading or installing software, contact:
-
-[stevenaedwards82@gmail.com](mailto:stevenaedwards82@gmail.com)
-
----
-
+[Browse software and purchase options]({{ '/' | relative_url }}#software)

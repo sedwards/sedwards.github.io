@@ -3,7 +3,7 @@
 layout: page
 title: Case Study — PuTTY for macOS
 description: Porting PuTTY to macOS
------------------------------------
+---
 
 # Case Study: PuTTY for macOS
 
@@ -56,3 +56,7 @@ This allows developers familiar with the Windows version of PuTTY to transition 
 
 ---
 
+
+## Source code and support
+
+[View PuTTY for macOS on GitHub](https://github.com/sedwards/putty) · [Support development via PayPal]({{ site.support_url }})

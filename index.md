@@ -1,256 +1,64 @@
 ---
-
-layout: page
-title: Updatez.org
-description: Porting and Software Upgrade Services
-
---------------------------------------------------
-
-# Updatez.org
-
-Modernizing legacy software for the **macOS ecosystem**.
-
-Updatez.org develops tools and services designed to help developers and organizations migrate applications from **Windows and Unix environments to modern macOS systems**, including **Apple Silicon (M-series)**.
-
-Our work focuses on:
-
-* porting useful legacy software
-* maintaining macOS builds of open-source tools
-* developing utilities that simplify application migration
-* providing professional porting services
-
+layout: default
+title: Updatez.org — Software for modern Macs
+description: Useful software, renewed for macOS and Apple Silicon. Explore open-source projects, developer tools, and professional software porting services.
 ---
-
-<script 
-  src="https://www.paypal.com/sdk/js?client-id=BAAGLK6LcPZBP8zIDTBXa8pc4inpPlI7QQy-rYgg29CFM9wZqi-c3LJRRna2wurGqbsaqTkoY8bL6vK3WY&components=hosted-buttons&enable-funding=venmo&currency=USD">
-</script>
-
-# Software Tools
-
-Below are the currently available applications and developer utilities.
-
----
-
-## MacDependency Package v1.0.0 — $10
-
-![MacDependency Screenshot](images/macdependency.png)
-
-MacDependency is a dependency inspection tool designed for **Apple Silicon Macs (M1 and later)**.
-
-It provides functionality similar to the classic Windows **Dependency Walker**, allowing developers to inspect import tables, export tables, and dynamic library dependencies.
-
-<a href="https://www.paypal.me/winehacker/10" target="_blank">
-<button style="background-color:#0070ba;color:white;padding:12px 20px;font-size:16px;border:none;border-radius:6px;cursor:pointer;">
-Buy MacDependency — $10
-</button>
-</a>
-
-Secure checkout via PayPal.
-
-Learn more:
-
-* [Case Study](case-studies/MacDependency_White_Paper.pdf)
-* [Porting Process](pages/porting-process.md)
-
----
-
-## gFTP for macOS — $19.95
-
-![gFTP Screenshot](images/gftp.png)
-
-A modern macOS build of the classic **gFTP visual file transfer client**.
-
-Supports:
-
-* FTP
-* FTPS
-* SFTP
-* SCP
-
-The interface uses a **dual-pane layout** similar to traditional file managers used on Windows and Unix systems.
-
-<a href="https://www.paypal.me/winehacker/19.95" target="_blank">
-<button style="background-color:#0070ba;color:white;padding:12px 20px;font-size:16px;border:none;border-radius:6px;cursor:pointer;">
-Buy gFTP for macOS — $19.95
-</button>
-</a>
-
-Secure checkout via PayPal.
-
-Learn more:
-
-* [Case Study](case-studies/gftp_macos_gtk3_whitepaper.pdf)
-
----
-
-## PuTTY for macOS — $19.95
-
-![PuTTY Screenshot](images/putty.png)
-
-A **native macOS build** of the widely used PuTTY toolset.
-
-Included tools:
-
-* PuTTY (SSH/Telnet client)
-* PSCP (secure copy)
-* PSFTP (SFTP client)
-* PuTTYgen (SSH key generator)
-* Plink (command-line SSH client)
-* Pageant (SSH authentication agent)
-
-Many developers and network engineers rely on PuTTY for:
-
-* remote server administration
-* SSH development environments
-* serial console access
-* network device management
-
-<a href="https://www.paypal.me/winehacker/19.95" target="_blank">
-<button style="background-color:#0070ba;color:white;padding:12px 20px;font-size:16px;border:none;border-radius:6px;cursor:pointer;">
-Buy PuTTY for macOS — $19.95
-</button>
-</a>
-
-Secure checkout via PayPal.
-
-Learn more:
-
-* [Case Study](case-studies/putty.md)
-
----
-## rdesktop-mac
-<div id="paypal-container-TMHLD6LKWPGAN"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "TMHLD6LKWPGAN",
-  }).render("#paypal-container-TMHLD6LKWPGAN")
-</script>
----
-
-## AppBundleGenerator — Free
-
-![AppBundleGenerator Screenshot](images/appbundlegenerator.png)
-
-AppBundleGenerator is a developer tool designed to convert compiled applications into proper **macOS Application Bundles (.app)**.
-
-macOS applications use a bundle structure containing:
-
-* executables
-* resources
-* libraries
-* icons
-* metadata
-
-This tool simplifies packaging applications for distribution and integrates easily into **automated build pipelines and DevOps workflows**.
-
-Download:
-
-[Download AppBundleGenerator](downloads/appbundlegenerator.dmg)
-
-Learn more:
-
-* [Case Study](case-studies/appbundlegenerator.md)
-
----
-
-## MacDown (Apple Silicon Build) — Free
-
-![MacDown Screenshot](images/macdown.png)
-
-We maintain a **native Apple Silicon build of MacDown**, one of the best Markdown editors available for macOS.
-
-Features include:
-
-* live Markdown preview
-* GitHub-flavored Markdown support
-* fast rendering
-* clean writing environment
-
-Download:
-
-[Download MacDown](downloads/macdown.dmg)
-
----
-
-# Software Porting Services
-
-In addition to maintaining macOS builds of useful tools, Updatez.org provides **professional software porting services**.
-
-We specialize in migrating applications from:
-
-* Windows
-* Linux
-* legacy Unix systems
-
-to modern **macOS environments**.
-
----
-
-## Porting Evaluation
-
-Before beginning a porting project we perform a **technical feasibility evaluation**.
-
-**Cost: $500 flat rate**
-
-This evaluation includes:
-
-* source code inspection
-* dependency analysis
-* platform compatibility review
-* build system analysis
-
-You receive a **technical feasibility report** outlining:
-
-* porting complexity
-* potential risks
-* estimated engineering effort
-
-If the project proceeds, engineering work is billed at:
-
-**$200 per hour**
-
-Learn more:
-
-[Overview of Our Porting Process](pages/porting-process.md)
-
----
-
-# Case Studies
-
-Examples of projects and tools developed or maintained by Updatez.org.
-
-* [PuTTY for macOS](case-studies/putty.md)
-* [MacDependency](case-studies/macdependency.md)
-* [gFTP for macOS](case-studies/gftp.md)
-* [New AppBundleGenerator](case-studies/AppBundleGenerator_White_Paper_downloa.pdf)
-* [Putty for macOS WhitePaper](case-studies/putty_macos_apple_silicon_whitepaper.pdf)
-* [rdesktop-mac whitepaper](case-studies/rdesktop-mac-whitepaper.pdf)
-
-
-Full list:
-
-[View All Case Studies](case-studies/index.md)
-
----
-
-# Contact
-
-For questions about software, licensing, or porting services:
-
-**[stevenaedwards82@gmail.com](mailto:stevenaedwards82@gmail.com)**
-
----
-
-# Support This Project
-
-If you find our tools useful, please consider supporting development.
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="winehacker@gmail.com" />
-<input type="hidden" name="item_name" value="Support Updatez.org Software Modernization" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" alt="Donate with PayPal">
-</form>
-
----
-
+<section class="hero" aria-labelledby="intro-title">
+  <p class="eyebrow">Legacy software. Modern possibilities.</p>
+  <h1 id="intro-title">Useful tools.<br>Ready for modern Macs.</h1>
+  <p class="hero-lead">Bringing trusted Windows and Unix software to macOS and Apple Silicon, with open-source tools and practical porting expertise.</p>
+  <div class="actions">
+    <a class="button" href="#software">Explore the software <span aria-hidden="true">↓</span></a>
+    <a class="button button-secondary" href="https://github.com/{{ site.author.github }}">Find us on GitHub <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="hero-topics"><span>macOS &amp; Apple Silicon</span><span>Open-source development</span><span>Software porting</span></div>
+</section>
+
+<section id="software" aria-labelledby="software-title">
+  <div class="section-heading"><p class="eyebrow">The toolkit</p><h2 id="software-title">Software worth bringing forward.</h2><p>Explore the projects, inspect the source, and support their continued development.</p></div>
+  {% include project-cards.html %}
+</section>
+
+<section id="services" class="service-panel" aria-labelledby="services-title">
+  <div>
+    <p class="eyebrow">Software porting services</p>
+    <h2 id="services-title">A new platform.<br>A practical path forward.</h2>
+    <p>Move applications from Windows, Linux, and legacy Unix systems to modern macOS. Start with a technical feasibility evaluation covering source code, dependencies, platform compatibility, and the build system.</p>
+    <a href="{{ '/pages/porting-process.html' | relative_url }}">Explore the porting process <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="service-pricing">
+    <h3>Porting evaluation</h3>
+    <p class="price">$500 <span>flat rate</span></p>
+    <p>A technical feasibility report outlining complexity, risks, and estimated engineering effort.</p>
+    <p>Engineering after evaluation: <strong>$200 / hour</strong>.</p>
+    <a class="button" href="mailto:stevenaedwards82@gmail.com">Discuss your project</a>
+  </div>
+</section>
+
+<section id="case-studies" aria-labelledby="studies-title">
+  <div class="section-heading"><p class="eyebrow">Behind the builds</p><h2 id="studies-title">Engineering in detail.</h2><p>Technical notes on bringing established tools to a new platform.</p></div>
+  <ul class="study-list">
+    <li><a href="{{ '/case-studies/MacDependency_White_Paper.pdf' | relative_url }}">MacDependency <span>White paper · PDF ↗</span></a></li>
+    <li><a href="{{ '/case-studies/gftp_macos_gtk3_whitepaper.pdf' | relative_url }}">gFTP for macOS <span>White paper · PDF ↗</span></a></li>
+    <li><a href="{{ '/case-studies/putty.html' | relative_url }}">PuTTY for macOS <span>Case study →</span></a></li>
+    <li><a href="{{ '/case-studies/putty_macos_apple_silicon_whitepaper.pdf' | relative_url }}">PuTTY on Apple Silicon <span>White paper · PDF ↗</span></a></li>
+    <li><a href="{{ '/case-studies/AppBundleGenerator_White_Paper_download.pdf' | relative_url }}">AppBundleGenerator <span>White paper · PDF ↗</span></a></li>
+    <li><a href="{{ '/case-studies/rdesktop-mac-whitepaper.pdf' | relative_url }}">rdesktop-mac <span>White paper · PDF ↗</span></a></li>
+  </ul>
+</section>
+
+<section id="support" class="support-panel" aria-labelledby="support-title">
+  <p class="eyebrow">Keep useful software moving</p>
+  <h2 id="support-title">Support the next build.</h2>
+  <p>Your contributions help maintain the tools and bring more software to modern macOS. Explore the code, report an issue, or contribute to development.</p>
+  <div class="actions">
+    <a class="button" href="{{ site.support_url }}">Donate with PayPal <span aria-hidden="true">♡</span></a>
+    <a class="button button-secondary" href="https://github.com/{{ site.author.github }}">Explore projects on GitHub <span aria-hidden="true">↗</span></a>
+  </div>
+</section>
+
+<section id="contact" class="contact-panel" aria-labelledby="contact-title">
+  <h2 id="contact-title">Let’s talk software.</h2>
+  <p>Questions about software, licensing, or a porting project?</p>
+  <a href="mailto:stevenaedwards82@gmail.com">stevenaedwards82@gmail.com</a>
+</section>

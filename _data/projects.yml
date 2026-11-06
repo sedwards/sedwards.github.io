@@ -1,0 +1,43 @@
+- name: MacDependency
+  category: Dependency analysis
+  price: "$10"
+  description: Inspect import tables, export tables, and dynamic library dependencies on Apple Silicon Macs. A familiar approach for developers who have used Dependency Walker on Windows.
+  repository: macdependency
+  purchase: https://www.paypal.me/winehacker/10
+  purchase_label: Buy MacDependency — $10
+  study: /case-studies/MacDependency_White_Paper.pdf
+- name: gFTP for macOS
+  category: File transfer
+  price: "$19.95"
+  description: A macOS build of the classic visual file transfer client, with a dual-pane interface and support for FTP, FTPS, SFTP, and SCP.
+  repository: gftp
+  purchase: https://www.paypal.me/winehacker/19.95
+  purchase_label: Buy gFTP — $19.95
+  study: /case-studies/gftp_macos_gtk3_whitepaper.pdf
+- name: PuTTY for macOS
+  category: Remote access
+  price: "$19.95"
+  description: A native macOS build of the PuTTY toolset for remote administration, SSH development, serial consoles, and network management. Includes PSCP, PSFTP, PuTTYgen, Plink, and Pageant.
+  repository: putty
+  purchase: https://www.paypal.me/winehacker/19.95
+  purchase_label: Buy PuTTY — $19.95
+  study: /case-studies/putty.html
+- name: rdesktop-mac
+  category: Remote desktop
+  price: macOS port
+  description: Bringing the rdesktop remote desktop client to macOS. Explore the source, follow development, or read the technical white paper.
+  repository: rdesktop-mac
+  purchase: https://www.paypal.com/ncp/payment/TMHLD6LKWPGAN
+  purchase_label: View PayPal checkout
+  study: /case-studies/rdesktop-mac-whitepaper.pdf
+- name: AppBundleGenerator
+  category: Application packaging
+  price: Free / open source
+  description: Turn compiled applications into macOS .app bundles, bringing executables, resources, libraries, icons, and metadata together for distribution and automated builds.
+  repository: AppBundleGenerator
+  study: /case-studies/AppBundleGenerator_White_Paper_download.pdf
+- name: MacDown
+  category: Markdown editor
+  price: Free / open source
+  description: An Apple Silicon build of MacDown with live Markdown preview, GitHub-flavored Markdown support, and a clean writing environment. See the repository for source and build instructions.
+  repository: macdown

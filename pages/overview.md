@@ -3,7 +3,7 @@
 layout: page
 title: Overview
 description: Overview of Updatez.org
-------------------------------------
+---
 
 # About Updatez.org
 
